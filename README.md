@@ -1,6 +1,3 @@
-# slmgr-commands
-
-
 ### Windows SLMGR Commands
 
 ```powershell
